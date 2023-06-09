@@ -1,0 +1,64 @@
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\bin\Debug\Determinant.exe.config
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\bin\Debug\Determinant.exe
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\bin\Debug\Determinant.pdb
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\obj\Debug\Determinant.csproj.AssemblyReference.cache
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\obj\Debug\Determinant.csproj.SuggestedBindingRedirects.cache
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\obj\Debug\Determinant.Form1.resources
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\obj\Debug\Determinant.Properties.Resources.resources
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\obj\Debug\Determinant.csproj.GenerateResource.cache
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\obj\Debug\Determinant.csproj.CoreCompileInputs.cache
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\obj\Debug\Determinant.exe
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\obj\Debug\Determinant.pdb
+C:\Users\79092\Desktop\ебалово\к\Determinant\bin\Debug\Determinant.exe.config
+C:\Users\79092\Desktop\ебалово\к\Determinant\bin\Debug\Determinant.exe
+C:\Users\79092\Desktop\ебалово\к\Determinant\bin\Debug\Determinant.pdb
+C:\Users\79092\Desktop\ебалово\к\Determinant\obj\Debug\Determinant.csproj.AssemblyReference.cache
+C:\Users\79092\Desktop\ебалово\к\Determinant\obj\Debug\Determinant.csproj.SuggestedBindingRedirects.cache
+C:\Users\79092\Desktop\ебалово\к\Determinant\obj\Debug\Determinant.Form1.resources
+C:\Users\79092\Desktop\ебалово\к\Determinant\obj\Debug\Determinant.Properties.Resources.resources
+C:\Users\79092\Desktop\ебалово\к\Determinant\obj\Debug\Determinant.csproj.GenerateResource.cache
+C:\Users\79092\Desktop\ебалово\к\Determinant\obj\Debug\Determinant.csproj.CoreCompileInputs.cache
+C:\Users\79092\Desktop\ебалово\к\Determinant\obj\Debug\Determinant.exe
+C:\Users\79092\Desktop\ебалово\к\Determinant\obj\Debug\Determinant.pdb
+C:\Users\79092\Desktop\ебалово\к\Determinant\obj\Debug\Determinant.Form2.resources
+C:\Users\79092\Desktop\ебалово\к\Determinant\obj\Debug\Determinant.Form3.resources
+E:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\bin\Debug\Determinant.exe.config
+E:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\bin\Debug\Determinant.exe
+E:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\bin\Debug\Determinant.pdb
+E:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.Form1.resources
+E:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.Properties.Resources.resources
+E:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.csproj.GenerateResource.cache
+E:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.csproj.CoreCompileInputs.cache
+E:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.exe
+E:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.pdb
+G:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\bin\Debug\Determinant.exe.config
+G:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\bin\Debug\Determinant.exe
+G:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\bin\Debug\Determinant.pdb
+G:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.csproj.AssemblyReference.cache
+G:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.csproj.SuggestedBindingRedirects.cache
+G:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.Properties.Resources.resources
+G:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.csproj.GenerateResource.cache
+G:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.csproj.CoreCompileInputs.cache
+G:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.exe
+G:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.pdb
+D:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\bin\Debug\Determinant.exe.config
+D:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\bin\Debug\Determinant.exe
+D:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\bin\Debug\Determinant.pdb
+D:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.csprojAssemblyReference.cache
+D:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.Form1.resources
+D:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.Form2.resources
+D:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.Form3.resources
+D:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.Form5.resources
+D:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.Properties.Resources.resources
+D:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.csproj.GenerateResource.cache
+D:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.csproj.CoreCompileInputs.cache
+D:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.exe
+D:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.pdb
+E:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.InversMatrix.resources
+E:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.MainMenu.resources
+E:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.Reference.resources
+E:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.csprojAssemblyReference.cache
+G:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.InversMatrix.resources
+G:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.MainMenu.resources
+G:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.Reference.resources
+G:\с\КУРСОВОЙ ПРОЕКТ\к\Determinant\obj\Debug\Determinant.Determinant.resources
